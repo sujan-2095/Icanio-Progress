@@ -1,0 +1,16 @@
+package Icanio;
+import java.util.*;
+public class collection {
+	public static void main(String[] argv) {
+		
+		Integer[] arr= {1,2,2,3,4,63,42,31,4,5,321,2,42};
+		
+		//sort
+		Arrays.sort(arr);
+		System.out.print(Arrays.asList(arr));
+		
+		//shuffle
+		Collections.shuffle(Arrays.asList(arr));
+	}
+
+}

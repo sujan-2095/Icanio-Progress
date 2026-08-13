@@ -1,0 +1,8 @@
+package Icanio;
+import java.util.*;
+public class collection {
+	public static void main(String[] argv) {
+		
+	}
+
+}
