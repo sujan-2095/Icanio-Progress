@@ -157,3 +157,122 @@
 2026-08-13 08:18:33.987: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-13 08:18:33.988: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-08-13 08:18:37.563: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:56:12.911: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:56:12.911: [INFO] Profiles total count: 1
+2026-08-13 08:56:12.911: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T08:18:36.389Z
+2026-08-13 08:56:12.911: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:56:12.911: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T08:18:36.389Z
+2026-08-13 08:56:12.912: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 08:56:12.912: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 08:56:12.912: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 08:56:12.912: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:57:52.269: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:57:54.433: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:57:54.433: [INFO] Profiles total count: 1
+2026-08-13 08:57:54.434: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T08:57:50.294Z
+2026-08-13 08:57:54.434: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:57:54.434: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T08:57:50.294Z
+2026-08-13 08:57:54.434: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 08:57:54.434: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 08:57:54.434: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 08:57:54.434: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:58:42.236: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:58:45.525: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:58:45.525: [INFO] Profiles total count: 1
+2026-08-13 08:58:45.526: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T08:57:50.294Z
+2026-08-13 08:58:45.526: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:58:45.526: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T08:57:50.294Z
+2026-08-13 08:58:45.526: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 08:58:45.526: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 08:58:45.526: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 08:58:45.526: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:59:36.312: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:07:14.272: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:07:14.272: [INFO] Profiles total count: 1
+2026-08-14 04:07:14.273: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T08:57:50.294Z
+2026-08-14 04:07:14.273: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:07:14.273: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T08:57:50.294Z
+2026-08-14 04:07:14.274: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 04:07:14.274: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 04:07:14.274: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 04:07:14.274: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:07:48.767: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:09:47.950: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:09:47.950: [INFO] Profiles total count: 1
+2026-08-14 04:09:47.951: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:09:47.951: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:09:47.951: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:09:47.951: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 04:09:47.951: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 04:09:47.951: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 04:09:47.951: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:09:48.043: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:11:33.098: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:11:33.098: [INFO] Profiles total count: 1
+2026-08-14 04:11:33.098: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:11:33.098: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:11:33.098: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:11:33.098: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 04:11:33.098: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 04:11:33.098: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 04:11:33.098: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:13:10.260: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:13:18.294: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:13:18.294: [INFO] Profiles total count: 1
+2026-08-14 04:13:18.294: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:13:18.294: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:13:18.294: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:13:18.294: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 04:13:18.294: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 04:13:18.294: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 04:13:18.294: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:13:20.897: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:14:25.113: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:14:25.113: [INFO] Profiles total count: 1
+2026-08-14 04:14:25.113: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:14:25.113: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:14:25.113: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:14:25.113: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 04:14:25.113: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 04:14:25.113: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 04:14:25.113: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:14:25.225: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:15:57.961: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:15:57.961: [INFO] Profiles total count: 1
+2026-08-14 04:15:57.962: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:15:57.962: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:15:57.962: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:15:57.962: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 04:15:57.962: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 04:15:57.962: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 04:15:57.962: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:33:41.800: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:33:41.800: [INFO] Profiles total count: 1
+2026-08-14 04:33:41.800: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:33:41.800: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 04:33:41.800: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:07:44.823Z
+2026-08-14 04:33:41.800: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 04:33:41.800: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 04:33:41.800: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 04:33:41.800: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 04:33:58.468: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 05:35:59.413: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 05:35:59.413: [INFO] Profiles total count: 1
+2026-08-14 05:35:59.413: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:33:55.414Z
+2026-08-14 05:35:59.413: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 05:35:59.413: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:33:55.414Z
+2026-08-14 05:35:59.413: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 05:35:59.413: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 05:35:59.413: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 05:35:59.413: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 05:37:01.187: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 05:37:18.699: [INFO] CurrentProfilePath: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 05:37:18.699: [INFO] Profiles total count: 1
+2026-08-14 05:37:18.699: [INFO] Profile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:33:55.414Z
+2026-08-14 05:37:18.699: [INFO] LastUsedProfileDir: C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 05:37:18.699: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\SUJAN\Documents\Placements\Icanio\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T04:33:55.414Z
+2026-08-14 05:37:18.699: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 05:37:18.699: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 05:37:18.699: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 05:37:18.699: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 05:46:11.976: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

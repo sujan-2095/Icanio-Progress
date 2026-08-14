@@ -13,7 +13,10 @@ public class collection {
 		Collections.shuffle(Arrays.asList(arr));
 		System.out.println(Arrays.asList(arr));
 		
-		
+		Iterator<Integer>  it = Arrays.asList(arr).iterator();
+		while(it.hasNext()){
+			System.out.println(it.next());
+		}
 	}
 
 }
