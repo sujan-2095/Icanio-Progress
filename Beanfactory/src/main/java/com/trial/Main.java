@@ -8,13 +8,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        ApplicationContext context =
+        BeanFactory context =
                 new ClassPathXmlApplicationContext("beans.xml");
 
-        BeanFactory container = context;
-
         Student student =
-                container.getBean("s1", Student.class);
+                context.getBean("s1", Student.class);
 
         System.out.println(student.getClass());
 
