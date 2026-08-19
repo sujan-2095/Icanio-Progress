@@ -12,13 +12,11 @@ public class DIExampleApplication {
         ApplicationContext context =
                 SpringApplication.run(DIExampleApplication.class, args);
 
-        ConstructorCar constructorCar =
-                context.getBean(ConstructorCar.class);
+        ConstructorCar constructorCar =context.getBean(ConstructorCar.class);
 
         SetterCar setterCar =context.getBean(SetterCar.class);
 
-        FieldCar fieldCar =
-                context.getBean(FieldCar.class);
+        FieldCar fieldCar =context.getBean(FieldCar.class);
 
         constructorCar.drive();
         setterCar.drive();
