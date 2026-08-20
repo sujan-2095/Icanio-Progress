@@ -1,6 +1,7 @@
 package com.trial.controller;
 
 import com.trial.service.StudentService;
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
