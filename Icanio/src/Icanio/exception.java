@@ -1,6 +1,6 @@
 package Icanio;
 
-class exception {
+class exception{
 
     static void checkAge(int age) {
 
@@ -9,12 +9,12 @@ class exception {
         }
     }
 
-    public static void main(String[] args) {
-        try {
-            checkAge(15);
-        }
-        catch (Exception e) {
-            System.out.println(e);
+    public static void main(String[] args) throws Exception{
+            try{
+                System.out.println("Hello World");
+            }
+            finally {
+                checkAge(18);
         }
     }
 }

@@ -15,11 +15,5 @@ public class Main {
                 Main.class,
                 args
         );
-
-        String[] beanNames = context.getBeanDefinitionNames();
-        Arrays.sort(beanNames);
-        for (String beanName : beanNames) {
-            System.out.println(beanName);
-        }
     }
 }

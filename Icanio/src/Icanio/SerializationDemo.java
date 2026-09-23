@@ -34,6 +34,7 @@ public class SerializationDemo {
 
             System.out.println("Object serialized");
 
+            
         } catch (IOException e) {
             e.printStackTrace();
         }

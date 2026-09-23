@@ -1,18 +1,14 @@
 package Icanio;
-
 class student<s,u>{
 	s name;
 	u age;
-	
 	void set(s name, u age) {
 		this.name = name;
 		this.age = age;
 	}
-	
 	s getname() {
 		return  name;
 	}
-	
 	u getage() {
 		return  age;
 	}
